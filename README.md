@@ -1,2 +1,2 @@
 # The-layout-scaling-in-browsers
-Template page  layout  several blocks scaling in browsers HTML5 CSS
+Template page  layout  contains basic features to demostrate how several blocks scaling in different browsers:desctop,mobile HTML5 CSS
